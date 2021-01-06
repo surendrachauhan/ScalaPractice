@@ -1,0 +1,7 @@
+[debug] Full compilation, no sources in previous analysis.
+[debug] All sources are invalidated.
+[debug] Initial set of included nodes: 
+[debug] Recompiling all sources: number of invalidated sources > 50.0% of all sources
+[info] Compiling 1 Java source to /Users/surviz/Documents/scalapractice/project/target/scala-2.12/sbt-1.0/classes ...
+[debug] Attempting to call com.sun.tools.javac.api.JavacTool@19476cb8 directly...
+[error] (Compile / compileIncremental) javac returned non-zero exit code
